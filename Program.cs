@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-
+            var car = new Car("XYZ123");
         }
     }
 }
